@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=errorgamer2000&label=Profile%20views&color=ff4d4d&style=flat-square" alt="errorgamer2000" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=errorgamer2000" alt="errorgamer2000" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=errorgamer2000&margin-w=15&margin-h=15" alt="errorgamer2000" /></a> </p>
 
 - 🔭 I’m currently working on **a cloud server for scratch that allows users to store data from my games on the cloud.**
 
