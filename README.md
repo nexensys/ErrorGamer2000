@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋🏻, I'm ErrorGamer2000</h1>
 <h3 align="center">I am a part-time coding enthusiast, part time gamer in high school, currently taking college classes. I spend about 90% of my free time programming, whether it be JavaScript, HTML, CSS, or Scratch.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=errorgamer2000&label=Profile%20views&color=ff4d4d&style=flat-square" alt="errorgamer2000" /> </p>
+ [![Profile Visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=errorgamer2000.visitor.badge.reloaded&color=ff5959&style=for-the-badge&logo=github)](https://github.com/errorgamer2000)
+[![GitHub Followers](https://img.shields.io/github/followers/errorgamer2000?color=ff5959&logo=github&style=for-the-badge)](https://github.com/errorgamer2000?tab=followers/)
+[![Scratch Messages](https://img.shields.io/badge/dynamic/json?label=Messages&query=count&url=https%3A%2F%2Fapi.scratch.mit.edu%2Fusers%2FErrorGamer2000%2Fmessages%2Fcount&color=ff5959&style=for-the-badge&logo=scratch&logoColor=fff)](https://scratch.mit.edu/users/ErrorGamer2000/)
+[![Scratch Following](https://img.shields.io/badge/dynamic/json?label=Following&query=statistics.following&url=https%3A%2F%2Fscratchdb.lefty.one%2Fv3%2Fuser%2Finfo%2FErrorGamer2000&color=ff5959&style=for-the-badge&logo=scratch&logoColor=fff)](https://scratch.mit.edu/users/ErrorGamer2000/following/)
+[![Scratch Followers](https://img.shields.io/badge/dynamic/json?label=Followers&query=statistics.followers&url=https%3A%2F%2Fscratchdb.lefty.one%2Fv3%2Fuser%2Finfo%2FErrorGamer2000&color=ff5959&style=for-the-badge&logo=scratch&logoColor=fff)](https://scratch.mit.edu/users/ErrorGamer2000/followers/)
+[![Scratch Rank Followed in the US](https://img.shields.io/badge/dynamic/json?style=for-the-badge&cacheSeconds=1&color=ff5959&label=Rank%20Followed%20In%20USA&query=statistics.ranks.country.followers&url=https://scratchdb.lefty.one/v2/user/info/ErrorGamer2000&logo=scratch&logoColor=fff)](https://scratchstats.com/ErrorGamer2000/)
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=errorgamer2000&margin-w=15&margin-h=15" alt="errorgamer2000" /></a> </p>
 
