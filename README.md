@@ -30,6 +30,6 @@
 
 ![ErrorGamer2000's GitHub Stats](https://raw.githubusercontent.com/ErrorGamer2000/github-stats/master/generated/overview.svg)
 
-![ErrorGamer2000's GitHub Stats](https://github-readme-stats.vercel.app/api?username=errorgamer2000&show_icons=true&theme=tokyonight&locale=en)
+![ErrorGamer2000's GitHub Stats](https://github-readme-stats.vercel.app/api?username=errorgamer2000&show_icons=true&locale=en)
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ErrorGamer2000&theme=dark&ring=FF4D4D&fire=FF4D4D&currStreakLabel=FF4D4D)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ErrorGamer2000&ring=2f80ed&fire=2f80ed&currStreakLabel=2f80ed)
