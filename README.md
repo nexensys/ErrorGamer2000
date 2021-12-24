@@ -40,6 +40,7 @@ class About extends Me {
 ```
 
 </h3>
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=errorgamer2000&margin-w=15&margin-h=15" alt="ErrorGamer2000's Github Trophies" />
   <img src="https://raw.githubusercontent.com/ErrorGamer2000/ErrorGamer2000/master/generated/languages.svg" alt="ErrorGamer2000's Most Used Languages" />
