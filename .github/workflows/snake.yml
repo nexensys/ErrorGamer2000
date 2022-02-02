@@ -22,8 +22,8 @@ jobs:
           svg_out_path: generated/commit-snake.svg
       - name: Commit to the repo
         run: |
-          git config --global user.name "ErrorGamer2000/github-stats"
-          git config --global user.email "github-commit-snake[bot]@errorgamer2000.github.io"
+          git config --global user.name "ErrorGamer2000/stat-bot"
+          git config --global user.email "github-stats[bot]@errorgamer2000.github.io"
           git add .
           # "echo" returns true so the build succeeds, even if no changed files
           git commit -m 'Update commit snake' || echo
