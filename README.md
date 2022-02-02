@@ -34,7 +34,7 @@ class About extends Me {
     return "error2000gamer@gmail.com";
   }
   get interestingFacts() {
-    return ["self taught", "started with python", "taking college courses"];
+    return ["self taught", "started with python"];
   }
 }
 ```
