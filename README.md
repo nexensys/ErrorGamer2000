@@ -24,11 +24,11 @@ class About extends Me {
       "JSX/React",
       "Stylus",
       "Pug",
-      "Scratch (https://scratch.mit.edu)"
+      "TypeScript"
     ];
   }
   get tech() {
-    return ["Node.js", "npm", "webpack", "Babel"];
+    return ["Node.js", "npm", "webpack", "Babel", "Visual Studio Code"];
   }
   get email() {
     return "error2000gamer@gmail.com";
