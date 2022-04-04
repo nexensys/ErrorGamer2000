@@ -53,4 +53,16 @@ class About extends Me {
 # Recent Blogs
 
 <!-- blog-post-list:start -->
+## DEV Community\: ErrorGamer2000
+
+The latest articles on DEV Community by ErrorGamer2000 \(@errorgamer2000\).
+
+[Read more](https://dev.to/errorgamer2000)
+> Last updated: Sunday, April 3, 2022 at 6:19:20 PM
+
+> Showing 1 of 1 posts.
+
+[![Adding Recent Blog Posts to Your GitHub Readme](https://raw.githubusercontent.com/ErrorGamer2000/ErrorGamer2000/master/blog-posts/DEV_Community__ErrorGamer2000/Adding_Recent_Blog_Posts_to_Your_GitHub_Readme.svg)](https://dev.to/errorgamer2000/adding-recent-blog-posts-to-your-github-readme-4n11)
+
+
 <!-- blog-post-list:end -->
