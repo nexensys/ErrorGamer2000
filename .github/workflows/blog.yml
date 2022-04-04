@@ -15,6 +15,9 @@ jobs:
         uses: ErrorGamer2000/github-readme-blog-post-action@v1
         with:
           feed_urls: https://dev.to/feed/errorgamer2000
+          output_dir: blog-posts
+          locale: en-US
+          time_zone: America/Denver
       - name: Commit changed files
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
