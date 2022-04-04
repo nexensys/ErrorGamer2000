@@ -49,3 +49,8 @@ class About extends Me {
   <img src="https://github-readme-stats.vercel.app/api?username=errorgamer2000&show_icons=true&locale=en" alt="ErrorGamer2000's GitHub Stats" />
   <img src="http://github-readme-streak-stats.herokuapp.com?user=ErrorGamer2000&ring=2f80ed&fire=2f80ed&currStreakLabel=2f80ed" alt="ErrorGamer2000's GitHub Streak" />
 </p>
+
+# Recent Blogs
+
+<!-- blog-post-list:start -->
+<!-- blog-post-list:end -->
