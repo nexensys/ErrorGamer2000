@@ -1,9 +1,12 @@
 name: Generate Blog List
 
 on:
-  push:
   schedule:
     - cron: "0 */1 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - master
 jobs:
   blog:
     runs-on: ubuntu-latest
