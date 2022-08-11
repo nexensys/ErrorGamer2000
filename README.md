@@ -57,7 +57,7 @@ class About extends Me {
 The latest articles on DEV Community by ErrorGamer2000 \(@errorgamer2000\).
 
 [Read more](https://dev.to/errorgamer2000)
-> Last updated: Thursday, August 11, 2022 at 11:45:19 AM
+> Last updated: Thursday, August 11, 2022 at 11:42:17 AM
 
 > Showing 2 of 2 posts.
 
@@ -70,4 +70,5 @@ The latest articles on DEV Community by ErrorGamer2000 \(@errorgamer2000\).
 # Feeling Generous?
 
 Any donations are appriciated.
-<a href="https://www.buymeacoffee.com/errorgamer2000"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=errorgamer2000&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+
+<a align="center" href="https://www.buymeacoffee.com/errorgamer2000"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=errorgamer2000&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
