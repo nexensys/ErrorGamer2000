@@ -45,7 +45,6 @@ class About extends Me {
   <img src="https://github-profile-trophy.vercel.app/?username=errorgamer2000&margin-w=15&margin-h=15" alt="ErrorGamer2000's Github Trophies" />
   <img src="https://raw.githubusercontent.com/ErrorGamer2000/ErrorGamer2000/master/generated/languages.svg" alt="ErrorGamer2000's Most Used Languages" />
   <img src="https://raw.githubusercontent.com/ErrorGamer2000/ErrorGamer2000/master/generated/overview.svg" alt="ErrorGamer2000's GitHub Stats" />
-  <img src="https://raw.githubusercontent.com/ErrorGamer2000/ErrorGamer2000/master/generated/commit-snake.svg" alt="ErrorGamer2000's GitHub Commits" />
   <img src="https://github-readme-stats.vercel.app/api?username=errorgamer2000&show_icons=true&locale=en" alt="ErrorGamer2000's GitHub Stats" />
   <img src="http://github-readme-streak-stats.herokuapp.com?user=ErrorGamer2000&ring=2f80ed&fire=2f80ed&currStreakLabel=2f80ed" alt="ErrorGamer2000's GitHub Streak" />
 </p>
@@ -58,7 +57,7 @@ class About extends Me {
 The latest articles on DEV Community by ErrorGamer2000 \(@errorgamer2000\).
 
 [Read more](https://dev.to/errorgamer2000)
-> Last updated: Thursday, August 11, 2022 at 11:44:00 AM
+> Last updated: Thursday, August 11, 2022 at 11:42:17 AM
 
 > Showing 2 of 2 posts.
 
@@ -67,3 +66,8 @@ The latest articles on DEV Community by ErrorGamer2000 \(@errorgamer2000\).
 
 
 <!-- blog-post-list:end -->
+
+# Feeling Generous?
+
+Any donations are appriciated.
+<a href="https://www.buymeacoffee.com/errorgamer2000"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=errorgamer2000&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
