@@ -58,10 +58,11 @@ class About extends Me {
 The latest articles on DEV Community by ErrorGamer2000 \(@errorgamer2000\).
 
 [Read more](https://dev.to/errorgamer2000)
-> Last updated: Thursday, August 11, 2022 at 11:13:56 AM
+> Last updated: Thursday, August 11, 2022 at 11:42:17 AM
 
-> Showing 1 of 1 posts.
+> Showing 2 of 2 posts.
 
+[![Binary File Formats Explained](https://raw.githubusercontent.com/ErrorGamer2000/ErrorGamer2000/master/blog-posts/DEV_Community__ErrorGamer2000/Binary_File_Formats_Explained.svg)](https://dev.to/errorgamer2000/binary-file-formats-explained-4g6j)
 [![Adding Recent Blog Posts to Your GitHub Readme](https://raw.githubusercontent.com/ErrorGamer2000/ErrorGamer2000/master/blog-posts/DEV_Community__ErrorGamer2000/Adding_Recent_Blog_Posts_to_Your_GitHub_Readme.svg)](https://dev.to/errorgamer2000/adding-recent-blog-posts-to-your-github-readme-4n11)
 
 
