@@ -52,17 +52,17 @@ class About extends Me {
 # Recent Blogs
 
 <!-- blog-post-list:start -->
-## DEV Community\: ErrorGamer2000
+## DEV Community 👩‍💻👨‍💻\: ErrorGamer2000
 
-The latest articles on DEV Community by ErrorGamer2000 \(@errorgamer2000\).
+The latest articles on DEV Community 👩‍💻👨‍💻 by ErrorGamer2000 \(@errorgamer2000\).
 
 [Read more](https://dev.to/errorgamer2000)
-> Last updated: Friday, August 26, 2022 at 9:12:28 AM
+> Last updated: Friday, August 26, 2022 at 10:14:34 AM
 
 > Showing 2 of 2 posts.
 
-[![Binary File Formats Explained](https://raw.githubusercontent.com/ErrorGamer2000/ErrorGamer2000/master/blog-posts/DEV_Community__ErrorGamer2000/Binary_File_Formats_Explained.svg)](https://dev.to/errorgamer2000/binary-file-formats-explained-4g6j)
-[![Adding Recent Blog Posts to Your GitHub Readme](https://raw.githubusercontent.com/ErrorGamer2000/ErrorGamer2000/master/blog-posts/DEV_Community__ErrorGamer2000/Adding_Recent_Blog_Posts_to_Your_GitHub_Readme.svg)](https://dev.to/errorgamer2000/adding-recent-blog-posts-to-your-github-readme-4n11)
+[![Binary File Formats Explained](https://raw.githubusercontent.com/ErrorGamer2000/ErrorGamer2000/master/blog-posts/DEV_Community_👩‍💻👨‍💻__ErrorGamer2000/Binary_File_Formats_Explained.svg)](https://dev.to/errorgamer2000/binary-file-formats-explained-4g6j)
+[![Adding Recent Blog Posts to Your GitHub Readme](https://raw.githubusercontent.com/ErrorGamer2000/ErrorGamer2000/master/blog-posts/DEV_Community_👩‍💻👨‍💻__ErrorGamer2000/Adding_Recent_Blog_Posts_to_Your_GitHub_Readme.svg)](https://dev.to/errorgamer2000/adding-recent-blog-posts-to-your-github-readme-4n11)
 
 
 <!-- blog-post-list:end -->
