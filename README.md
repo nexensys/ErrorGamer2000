@@ -4,8 +4,8 @@
 class About extends Me {
   constructor() {
     this.name = "ErrorGamer2000";
-    this.age = 17;
-    this.grade = 11;
+    this.age = 18;
+    this.grade = 12;
     this.homepage = "https://errorgamer2000.github.io/"; // Better version in development
     this.friends = []; //LOL
   }
