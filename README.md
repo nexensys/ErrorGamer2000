@@ -6,25 +6,21 @@ class About extends Me {
     this.name = "ErrorGamer2000";
     this.age = 18;
     this.grade = 12;
-    this.homepage = "https://errorgamer2000.github.io/"; // Better version in development
-    this.friends = []; //LOL
+    this.homepage = "https://errorgamer2000.com/";
   }
   get whoAmI() {
-    return ["coding enthusiast", "gamer", "high school student"];
+    return "A solo web developer, coding enthusiast, and gamer.";
   }
   get whatIDo() {
-    return ["build websites", "have fun"];
+    return "Build websites and desktop apps.";
   }
   get languages() {
     return [
-      "JavaScript",
-      "HTML",
-      "CSS",
-      "jQuery",
+      "TypeScript",
       "JSX/React",
-      "Stylus",
-      "Pug",
-      "TypeScript"
+      "HTML",
+      "SCSS",
+      "JavaScript",
     ];
   }
   get tech() {
