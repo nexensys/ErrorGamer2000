@@ -1,5 +1,3 @@
-<h3>
-
 ```js
 class About extends Me {
   constructor() {
@@ -30,12 +28,13 @@ class About extends Me {
     return "error2000gamer@gmail.com";
   }
   get interestingFacts() {
-    return ["self taught", "started with python"];
+    return ["self taught"];
+  }
+  get learning() {
+    return ["C++", "Python"]'
   }
 }
 ```
-
-</h3>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=errorgamer2000&margin-w=15&margin-h=15" alt="ErrorGamer2000's Github Trophies" />
