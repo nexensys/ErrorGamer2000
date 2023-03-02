@@ -52,7 +52,7 @@ class About extends Me {
 The latest articles on DEV Community by ErrorGamer2000 \(@errorgamer2000\).
 
 [Read more](https://dev.to/errorgamer2000)
-> Last updated: Thursday, March 2, 2023 at 1:10:50 PM
+> Last updated: Thursday, March 2, 2023 at 2:08:51 PM
 
 > Showing 2 of 2 posts.
 
