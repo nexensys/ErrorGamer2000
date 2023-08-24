@@ -22,12 +22,21 @@ I'm a furry. Deal with it. As you most likely saw from the badges I'm also an ot
 <br />
 
 <p align="center">
-<img align="left" src="https://avatars.githubusercontent.com/u/70162741" height="200" width="200" />
+<img align="right" src="https://avatars.githubusercontent.com/u/70162741" height="200" width="200" />
 <p>
 
 ## My Skillset
 
 ### Languages
+
+- JavaScript (3 Years)
+- TypeScript (2 Years)
+- C/C++ (1 year)
+- Python (7 months)
+- Java (1 month)
+- C# (Learning)
+
+### Tools
 
 </p>
 </p>
