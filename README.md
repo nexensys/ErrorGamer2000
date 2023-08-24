@@ -22,7 +22,7 @@ I'm a furry. Deal with it. As you most likely saw from the badges I'm also an ot
 <br />
 
 <p align="center">
-<img align="left" src="avatar-rounded.svg" height="200" width="200" />
+<img align="left" src="https://avatars.githubusercontent.com/u/70162741" height="200" width="200" />
 <p>
 
 ## My Skillset
