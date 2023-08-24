@@ -25,8 +25,9 @@ I'm a furry. Deal with it. As you most likely saw from the badges I'm also an ot
 <img align="left" src="https://avatars.githubusercontent.com/u/70162741" height="200" />
 <p>
 
-### My Skillset
-- 
+## My Skillset
+
+### Languages
 
 </p>
 </p>
@@ -36,11 +37,14 @@ I'm a furry. Deal with it. As you most likely saw from the badges I'm also an ot
 <br />
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=errorgamer2000&margin-w=15&margin-h=15" alt="ErrorGamer2000's Github Trophies" />
   <img src="https://raw.githubusercontent.com/ErrorGamer2000/ErrorGamer2000/master/generated/languages.svg" alt="ErrorGamer2000's Most Used Languages" />
   <img src="https://raw.githubusercontent.com/ErrorGamer2000/ErrorGamer2000/master/generated/overview.svg" alt="ErrorGamer2000's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api?username=errorgamer2000&show_icons=true&locale=en" alt="ErrorGamer2000's GitHub Stats" />
 </p>
+
+## Achievements
+
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=errorgamer2000&margin-w=15&margin-h=15" alt="ErrorGamer2000's Github Trophies" /></p>
 
 # Feeling Generous?
 
