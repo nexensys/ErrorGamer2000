@@ -13,7 +13,7 @@ Hey there, I'm Error!
 <img alt="Thereotype - Red Fox" src="https://img.shields.io/badge/Thereotype-Red%20Fox-a855f7?style=flat-square">
 </div>
 
-### About Me
+## About Me
 
 > Yes, yes I am highly neurodivergent. If this bothers you, and you are unable to understand that others are allowed to be their own person, leave me alone. Don't read any further than this. I don't care what names you try calling me, it doesn't work.
 
