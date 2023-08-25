@@ -2,15 +2,15 @@
 
 Hey there, I'm Error!
 <div align="left">
-<img alt="Age - 18" src="https://img.shields.io/badge/Age-18-a855f7?style=flat-square">
-<img alt="Name - Error" src="https://img.shields.io/badge/Name-Error-a855f7?style=flat-square">
-<img alt="Pronouns - Xe/Xem/Xyr" src="https://img.shields.io/badge/Pronouns-Xe%2FXem%2FXyr-a855f7?style=flat-square">
+<img alt="Age - 18" src="https://img.shields.io/badge/Age-18-d946ef?style=flat-square">
+<img alt="Name - Error" src="https://img.shields.io/badge/Name-Error-d946ef?style=flat-square">
+<img alt="Pronouns - Xe/Xem/Xyr" src="https://img.shields.io/badge/Pronouns-Xe%2FXem%2FXyr-d946ef?style=flat-square">
 <img alt="Asexual" src="https://img.shields.io/badge/Asexual-a21caf?style=flat-square">
 <img alt="Aromantic" src="https://img.shields.io/badge/Aromantic-16a34a?style=flat-square">
 <img alt="Aro-ace" src="https://img.shields.io/badge/Aro--ace-facc15?style=flat-square">
-<img alt="Otherkin/therian" src="https://img.shields.io/badge/Otherkin%2Ftherian-a855f7?style=flat-square">
-<img alt="Kintype - Kitsune" src="https://img.shields.io/badge/Kintype-Kitsune-a855f7?style=flat-square">
-<img alt="Thereotype - Red Fox" src="https://img.shields.io/badge/Thereotype-Red%20Fox-a855f7?style=flat-square">
+<img alt="Otherkin/therian" src="https://img.shields.io/badge/Otherkin%2Ftherian-d946ef?style=flat-square">
+<img alt="Kintype - Kitsune" src="https://img.shields.io/badge/Kintype-Kitsune-d946ef?style=flat-square">
+<img alt="Thereotype - Red Fox" src="https://img.shields.io/badge/Thereotype-Red%20Fox-d946ef?style=flat-square">
 </div>
 
 ## About Me
@@ -29,14 +29,23 @@ I'm a furry. Deal with it. As you most likely saw from the badges I'm also an ot
 
 ### Languages
 
-- JavaScript (3 Years)
-- TypeScript (2 Years)
-- C/C++ (1 year)
-- Python (7 months)
-- Java (1 month)
-- C# (Learning)
+- ![JavaScript - 3 Years](https://img.shields.io/badge/JavaScript-3%20Years-d946ef?style=flat-square&logo=javascript)
+- ![TypeScript - 2 Years](https://img.shields.io/badge/TypeScript-2%20Years-d946ef?style=flat-square&logo=typescript)
+- ![C/C++ - 1 Year](https://img.shields.io/badge/C%2FC%2B%2B-1%20Years-d946ef?style=flat-square&logo=c%2B%2B)
+- ![Python - 7 Months](https://img.shields.io/badge/Python-7%20Months-d946ef?style=flat-square&logo=python)
+- ![Java - 1 Month](https://img.shields.io/badge/Java-1%20Month-d946ef?style=flat-square&logo=oracle)
+- ![C# - Learning in progress](https://img.shields.io/badge/C%23-Learning%20in%20progress-d946ef?style=flat-square&logo=.net)
+
 
 ### Tools
+
+- Web Development (Backend)
+  - Node (3 years)
+  - Express (2.5 years)
+- Web Development (Frontend)
+  - HTML (3 years)
+  - CSS / SCSS (3 years, SCSS preferred)
+  - JavaScript / TypeScript (3 years)
 
 </p>
 </p>
