@@ -82,7 +82,7 @@ I'm a furry. Deal with it. As you most likely saw from the badges I'm also an ot
 - Don't even try to make me feel bad about my personality. Just don't It won't work, it'll just emberass you.
 - I scambait :D It's so fun!
 - Foxes
-- Insulting any cultural/LGBTQIA+ group in any way is a 1 way ticket to a permenant block.
+- Insulting any cultural/LGBTQIA+ group in any way is a one way ticket to a permenant block.
 
 
 </p>
