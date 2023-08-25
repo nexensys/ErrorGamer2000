@@ -30,10 +30,15 @@ I'm a furry. Deal with it. As you most likely saw from the badges I'm also an ot
 ### Languages
 
 ![JavaScript - 3 Years](https://img.shields.io/badge/JavaScript-3%20Years-d946ef?style=flat-square&logo=javascript)
+
 ![TypeScript - 2 Years](https://img.shields.io/badge/TypeScript-2%20Years-d946ef?style=flat-square&logo=typescript)
+
 ![C/C++ - 1 Year](https://img.shields.io/badge/C%2FC%2B%2B-1%20Years-d946ef?style=flat-square&logo=c%2B%2B)
+
 ![Python - 7 Months](https://img.shields.io/badge/Python-7%20Months-d946ef?style=flat-square&logo=python)
+
 ![Java - 1 Month](https://img.shields.io/badge/Java-1%20Month-d946ef?style=flat-square&logo=oracle)
+
 ![C# - Learning in progress](https://img.shields.io/badge/C%23-Learning%20in%20progress-d946ef?style=flat-square&logo=.net)
 
 
