@@ -45,12 +45,18 @@ I'm a furry. Deal with it. As you most likely saw from the badges I'm also an ot
 ### Tools
 
 - Web Development (Backend)
-  - Node (3 years)
-  - Express (2.5 years)
+
+  ![Node.JS - 3 Years](https://img.shields.io/badge/Node.JS-3%20Years-d946ef?style=flat-square&logo=node.js)
+  
+  ![Express - 2.5 Years](https://img.shields.io/badge/Express-2.5%20Years-d946ef?style=flat-square&logo=express)
+
 - Web Development (Frontend)
-  - HTML (3 years)
-  - CSS / SCSS (3 years, SCSS preferred)
-  - JavaScript / TypeScript (3 years)
+
+  ![HTML 5 - 3 Years](https://img.shields.io/badge/HTML%205-3%20Years-d946ef?style=flat-square&logo=html5)
+  
+  ![CSS/SCSS - 3 Years](https://img.shields.io/badge/CSS%2FSCSS-3%20Years-d946ef?style=flat-square&logo=sass)
+
+  ![JavaScript/TypeScript - 3 Years](https://img.shields.io/badge/JavaScript%2FTypeScript-3%20Years-d946ef?style=flat-square&logo=typescript)
 
 </p>
 </p>
