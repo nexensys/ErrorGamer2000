@@ -1,3 +1,5 @@
+# THIS IS USELESS NOW
+
 # 🦊
 
 Hey there, I'm Error! (Yes, I actually use that name in person too.)
